@@ -189,10 +189,6 @@ body{
   padding-right: 8px;
 }
 
-@media (max-width: 400px) {
-  body{
-    padding: 0 10px;
-  }
   .wrapper {
     padding: 20px 0;
   }
